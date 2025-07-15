@@ -1,6 +1,7 @@
 
 <img width="2560" height="1440" alt="scoffee" src="https://github.com/user-attachments/assets/2404eb89-6020-4bf5-9fa7-afa456fb0841" />
-###Scoffeerc
+##Scoffeerc
+
 Bienvenido/a al rincón donde el **código se cruza con la imaginación**. Este repositorio no es solo técnica: es una zona de juego entre la lógica y el arte digital.
 
 ## 💕 ¿Qué hay acá?
