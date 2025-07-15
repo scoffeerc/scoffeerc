@@ -1,34 +1,34 @@
-## Hola, soy SCOFFEERC 👋 
+# SOY ScoffeeRC
 
-¡Hola! Este espacio está dedicado a experimentar, construir y refactorizar. No es una vitrina, es un taller: acá vas a encontrar código en evolución constante, ideas en pruebas y soluciones a problemas reales (y otros inventados por deporte).
+Bienvenido/a al rincón donde el **código se cruza con la imaginación**. Este repositorio no es solo técnica: es una zona de juego entre la lógica y el arte digital.
 
-## 🚀 Qué vas a encontrar acá
+## 💕 ¿Qué hay acá?
 
-- Implementaciones de algoritmos y estructuras de datos.
-- Scripts utilitarios, pruebas de concepto y automatizaciones.
-- Repositorios organizados por lenguaje, propósito o puro caos creativo.
-- Ejercicios técnicos resueltos y refactorizados para máxima claridad.
-- Abstracciones con TADs y patrones de diseño cuando vale la pena.
+- 🎬 **Videos de lyrics** combinando música y escenas de películas icónicas.
+- 🌐 **Sitios web creativos**: desde enciclopedias interactivas hasta eCommerce visuales e interactivo.
+- 🧠 **Buscadores personalizados**, juegos visuales, y experiencias web con foco en la creatividad
+- ⚙️ Proyectos donde diseño y código trabajan en conjunto, sin fricciones.
 
-## 🧰 Stack en rotación
+## 🛠️ Herramientas de elección
 
-Actualmente trabajo principalmente con:
+- **HTML / CSS / JavaScript**  
+- **React**, **TailwindCSS**, **Node.js**
+- **FFmpeg**, **After Effects**, **Canvas API**
+- **Git**, **Figma**, **Photoshop**, **VSCode**
 
-- **C++**, **Python**, **JavaScript**
-- **Git**, **VSCode**, **Bash**
-- **TADs personalizados**, **STL**, **Node.js**, **Express**, **React (ocasional)**
+## ✨ Estilo de trabajo
 
-## ⚙️ Filosofía de trabajo
+- Creatividad primero. Luego optimización.
+- Interfaces que cuenten algo, no solo que funcionen.
+- Cada proyecto es una excusa para **aprender, fallar y construir algo mejor**.
+- Nada de templates genéricos: lo hecho a mano se nota.
 
-- El código es una herramienta, no una religión.
-- Prioridad a la **claridad**, luego la **eficiencia**, después la **abstracción**.
-- Todo lo que no se automatiza, se olvida o se repite.
+## 🚀 Visión
 
-## 🤖 ¿Colaboraciones?
-
-Siempre abierto a intercambiar ideas, optimizar código o encontrar mejores formas de hacer lo mismo con menos líneas. Abrí un issue o tirá un PR con confianza.
+Transformar ideas en productos digitales **que sorprendan**.  
+Construir herramientas que **entretengan, informen o emocionen**.  
+Y por supuesto, seguir creando por el simple placer de hacerlo.
 
 ---
 
-> “Primero que funcione. Después que sea elegante. Después que nadie lo toque nunca más.”
-
+> *“El mejor código no solo resuelve problemas. También cuenta una historia.”*
